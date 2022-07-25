@@ -73,14 +73,14 @@ h1 {
     letter-spacing: 0.1rem;
 }
 
-.social {
-    list-style: none;
-    display: flex;
-    margin-top: 1.5rem;
+.con1:hover {
+    color: red;
 }
 
-.social li {
-    line-height: 1;
-    padding: 0.5rem;
-    font-size: 1.5rem;
+.con2:hover {
+    color: black;
+}
+
+.con3:hover {
+    color: blue;
 }
